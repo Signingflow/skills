@@ -40,9 +40,8 @@ Create the key in the console: activate the API platform, create a project and a
 From the repository root:
 
 ```bash
-python3 skills/tests/test_skill_structure.py
-python3 skills/tests/test_skill_contract.py
-python3 skills/tests/test_webhook_signature.py
+python3 tests/test_skill_structure.py
+python3 tests/test_webhook_signature.py
 ```
 
 No API key is required.
